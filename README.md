@@ -89,7 +89,7 @@ python2 Info.py
 
 [![](https://img.shields.io/badge/Twitter-@Alesi406080-red?logo=Twitter&logoColor=Brightgreen&labelColor=white)]
 
-[![](https://img.shields.io/badge/Github-@Alesi406080-red?logo=Github&logoColor=Brightgreen&labelColor=white)]
+[![](https://img.shields.io/badge/Github-@Alesi406080-black?logo=Github&logoColor=black&labelColor=white)]
 
 
 
