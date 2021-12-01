@@ -83,6 +83,11 @@ python2 Info.py
 
 [![](https://img.shields.io/badge/Whatsapp-03081008587-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)]
 
-## :Pencil: License
+[![](https://img.shields.io/badge/Twitter-@Alesi406080-red?logo=Twitter&logoColor=Brightgreen&labelColor=white)]
+
+[![](https://img.shields.io/badge/Github-@Alesi406080-red?logo=Github&logoColor=Brightgreen&labelColor=white)]
+
+
+### License
 
 This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
