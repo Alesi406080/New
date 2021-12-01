@@ -51,6 +51,7 @@
 
 ````
 
+
 pkg update
 
 pkg upgrade
@@ -73,11 +74,14 @@ python2 Info.py
 
 ````
 
+
 #### Username : No need 
 
 #### Password : No Need
 
 ### Contact With  Mr Shahid
+
+
 
 [![](https://img.shields.io/badge/Facebook-ACCOUNT-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/profile.php?id=03081008587sahil)
 
@@ -86,6 +90,8 @@ python2 Info.py
 [![](https://img.shields.io/badge/Twitter-@Alesi406080-red?logo=Twitter&logoColor=Brightgreen&labelColor=white)]
 
 [![](https://img.shields.io/badge/Github-@Alesi406080-red?logo=Github&logoColor=Brightgreen&labelColor=white)]
+
+
 
 
 ### License
